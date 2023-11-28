@@ -12,3 +12,4 @@ INSERT INTO producten (5, "Jordan 4", 1, "Yellow Thunder", "Suède", 500); /*pro
 SELECT * FROM producten ORDER BY prijs;
 SELECT naam, materiaal FROM producten ORDER BY id;
 SELECT * FROM producten WHERE prijs < 500 ORDER BY prijs;
+S
