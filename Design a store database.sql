@@ -1,4 +1,4 @@
-/* */
+/*Dit is een database wat gaat over een webshop waar Jordans worden verkocht. Je kan hier de id, naam, aantal, kleur, materiaal en prijs vinden en je kan dus zien welke producten je bijvoorbeeld moet bijvullen. */
 
 
 CREATE TABLE producten (id INTEGER PRIMARY KEY, naam TEXT, aantal INTEGER, kleur TEXT, materiaal TEXT,  prijs INTEGER); /*Tabel toevoegen */
